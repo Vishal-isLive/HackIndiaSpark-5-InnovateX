@@ -1,5 +1,6 @@
 EcoNexus
 Join the Nexus, Shape the Future
+
 EcoNexus is a revolutionary platform designed to harness the power of blockchain technology to foster environmental sustainability. 
 Our mission is to build a decentralized ecosystem where environmental initiatives can thrive, fueled by community-driven crowdfunding, volunteer engagement, and the creative energy of digital art.
 
